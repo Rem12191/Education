@@ -52,7 +52,7 @@ gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
 # A RuboCop extension focused on enforcing Rails best practices and coding conventions.
 gem 'rubocop-rails', '~> 2.21', require: false
 #admin panel vs. user authentication
-gem 'activeadmin', '~> 3.0'
+gem 'activeadmin', '~> 3.2'
 gem 'devise', '~> 4.9', '>= 4.9.2'
 #t's a stack of components that are invoked to create a complete html input for you, which by default contains label, hints, errors and the input itself.
 gem 'simple_form', '~> 5.2'
